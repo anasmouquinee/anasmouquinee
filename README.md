@@ -57,7 +57,7 @@ Open-source projects involving C,C++, JAVA, Python, MySQL...
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/anasmouquinee/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://metrics.lecoq.io/https://github.com/anasmouquinee?template=classic&config.timezone=America%2FToronto)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmouquinee)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
