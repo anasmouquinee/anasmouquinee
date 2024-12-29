@@ -61,8 +61,8 @@ Open-source projects involving C,C++, JAVA, Python, MySQL...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmouquinee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+
